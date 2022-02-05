@@ -12,18 +12,18 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/me/AvatarMaker (1).png
+    path:            /assets/me/AvatarMaker.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/me/AvatarMaker (1).svg
-      2x:            /assets/me/AvatarMaker (1).svg
+      1x:            /assets/me/AvatarMaker.svg
+      2x:            /assets/me/AvatarMaker.svg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          contact.jd.han
+    github:          contact-jdhan
     email:           contact.jd.han@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
