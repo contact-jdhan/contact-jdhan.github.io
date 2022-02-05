@@ -295,7 +295,8 @@ PLATFORMS
 
 DEPENDENCIES
   duktape
-  github-pages (~> 223)
+  github-pages
+  jekyll (~> 3.9)
   jekyll-compose
   jekyll-default-layout
   jekyll-feed
