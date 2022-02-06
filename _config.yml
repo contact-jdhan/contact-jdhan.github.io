@@ -49,6 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Posts
+    url:               /posts/
   - title:             Example1
     url:               /example1/
   - title:             Example2
